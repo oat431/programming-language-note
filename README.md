@@ -6,6 +6,7 @@ this repo you expected to see
 - golang
 - rust
 - csharp
+- kotlin
 - and many more
 
 also the concept
