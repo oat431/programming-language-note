@@ -7,6 +7,6 @@ this repo you expected to see
 - rust
 - csharp
 - kotlin
-- and many more
+- and concept like functaional programming
 
 also the concept
